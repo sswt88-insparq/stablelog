@@ -64,7 +64,7 @@ If you have chosen in iOS Settings to share analytics with app developers, Apple
 
 ## Deleting your data
 
-- **Erase the records:** Settings → Erase all data removes every horse, record, photo and document from the app. Your name and phone number in Settings → Owner are cleared by deleting what you typed there.
+- **Erase the records:** Settings → Erase all data removes every horse, record, photo and document from the app, and your name and phone number in Settings → Owner.
 - **Remove everything:** deleting StableLog from your device removes all of its data from that device.
 - Backup files, PDFs and spreadsheets you saved or sent elsewhere are not touched by either step. Delete those where you put them.
 
