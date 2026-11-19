@@ -4,7 +4,7 @@ title: StableLog
 
 # StableLog
 
-Horse records, care log and paperwork, kept on your iPhone.
+Horse records, care history and paperwork, kept on your iPhone or iPad.
 
 - [Support](support)
 - [Privacy policy](privacy)
